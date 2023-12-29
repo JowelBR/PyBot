@@ -1,0 +1,10 @@
+
+comando:*votacion*
+***Sintaxis*** = /*votacion **pregunta** **opcion** **opcion** **opcion** ...
+    **NO** Se Pueden Dejar Espacioes Entre Las Pregunta o Opciones,
+    Para Marcar Un Espacion Pongan Una **_**
+    Ejemplo:/votacion Que**_**quieren**_**hacer jugar ver**_**peliculas estudiar*
+
+Comando:*De Ayuda*
+    ***sintasis***:/*ayuda*
+    *Muestra Una Documentacion Sobre Los Comandos Del Bot*
